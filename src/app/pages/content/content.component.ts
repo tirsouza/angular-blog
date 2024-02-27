@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import{dataFake} from '../../data/dataFake'
+import { dataFake } from 'src/app/data/dataFake'
 
 @Component({
   selector: 'app-content',
